@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[DevFr](https://discord.gg/kUrQzfCGtU)**
+- 🔭 I’m currently working on **[DevFr](https://devfr.xyz/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
