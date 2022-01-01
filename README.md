@@ -63,10 +63,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/Xiaotoxdev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Xiaotoxdevr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Xiaotoxdev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://twitter.com/XiaotoxO"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/clemvk91/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCVK1QxuUTVgv_tDlFA8ZOmw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
