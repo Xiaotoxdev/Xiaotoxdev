@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[DevFr](https://devfr.xyz/)**
+- 🔭 I’m currently working on **[Wumpus Radio](https://discord.gg/b5HXF7Q4Mj)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://xiaotox.me/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](none)**
 
 - 📫 How to reach me **xiaotox.dev@gmail.com**
 
