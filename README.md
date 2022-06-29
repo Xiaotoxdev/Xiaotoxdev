@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Wumpus Radio](https://discord.gg/b5HXF7Q4Mj)**
+- 🔭 I’m currently working on **[CodeFr](https://codefr.xyz)**
 
 - 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](none)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://xiaotox.me)**
 
 - 📫 How to reach me **xiaotox.discord@gmail.com**
 
